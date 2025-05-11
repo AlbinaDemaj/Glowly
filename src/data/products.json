@@ -1,0 +1,243 @@
+[
+  {
+    "id": 1,
+    "name": "Gentle Cleanser",
+    "price": 14.99,
+    "image": "https://images.pexels.com/photos/6689391/pexels-photo-6689391.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Removes dirt & refreshes skin.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 2,
+    "name": "Hydrating Serum",
+    "price": 19.99,
+    "image": "https://images.pexels.com/photos/20377674/pexels-photo-20377674/free-photo-of-bottles-of-cosmetics.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Deep hydration with hyaluronic acid.",
+    "skinType": "dry"
+  },
+  {
+    "id": 3,
+    "name": "Daily Moisturizer",
+    "price": 12.5,
+    "image": "https://tse4.mm.bing.net/th?id=OIP.mme7wPlllTSpoyU7Ru-pPQHaHa&pid=Api",
+    "description": "Smooth, non-greasy and natural glow.",
+    "skinType": "oily"
+  },
+  {
+    "id": 4,
+    "name": "Calming Toner",
+    "price": 9.99,
+    "image": "https://tse3.mm.bing.net/th?id=OIP.rFqpA65o6bbIFDEPoqa1sQHaHa&pid=Api",
+    "description": "Soothes redness and irritation.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 5,
+    "name": "SPF 50 Sunscreen",
+    "price": 15.99,
+    "image": "https://images.pexels.com/photos/16378486/pexels-photo-16378486/free-photo-of-a-commercial-shot-of-spf-50-sunscreen-in-water-and-sand.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Lightweight protection from sun.",
+    "skinType": "all"
+  },
+  {
+    "id": 6,
+    "name": "Brightening Vitamin C",
+    "price": 21.5,
+    "image": "https://images.pexels.com/photos/10866156/pexels-photo-10866156.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Boosts glow & fades dark spots.",
+    "skinType": "dry"
+  },
+  {
+    "id": 7,
+    "name": "Mattifying Gel",
+    "price": 13.0,
+    "image": "https://images.pexels.com/photos/8558476/pexels-photo-8558476.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Controls shine all day.",
+    "skinType": "oily"
+  },
+  {
+    "id": 8,
+    "name": "Soothing Face Mask",
+    "price": 10.0,
+    "image": "https://images.pexels.com/photos/10221859/pexels-photo-10221859.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Perfect for a calming night in.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 9,
+    "name": "Aloe Vera Toner",
+    "price": 8.99,
+    "image": "https://images.pexels.com/photos/14438264/pexels-photo-14438264.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Hydrates and calms skin.",
+    "skinType": "combination"
+  },
+  {
+    "id": 10,
+    "name": "Glow Night Cream",
+    "price": 17.0,
+    "image": "https://images.pexels.com/photos/26733176/pexels-photo-26733176/free-photo-of-woman-hands-holding-jar-of-cosmetic.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Wake up with plump skin.",
+    "skinType": "dry"
+  },
+  {
+    "id": 11,
+    "name": "Green Tea Moisturizer",
+    "price": 13.99,
+    "image": "https://images.pexels.com/photos/11124443/pexels-photo-11124443.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Antioxidant boost for your skin.",
+    "skinType": "combination"
+  },
+  {
+    "id": 12,
+    "name": "Charcoal Detox Mask",
+    "price": 16.0,
+    "image": "https://images.pexels.com/photos/5244568/pexels-photo-5244568.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "description": "Draws out impurities instantly.",
+    "skinType": "oily"
+  },
+  {
+    "id": 13,
+    "name": "Niacinamide Booster",
+    "price": 18.99,
+    "image": "https://images.pexels.com/photos/29675494/pexels-photo-29675494/free-photo-of-glass-dropper-bottle-of-skincare-serum.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Reduces pores and evens tone.",
+    "skinType": "combination"
+  },
+  {
+    "id": 14,
+    "name": "Hyaluronic Jelly Cream",
+    "price": 22.5,
+    "image": "https://images.pexels.com/photos/3751227/pexels-photo-3751227.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Locks in moisture all day.",
+    "skinType": "dry"
+  },
+  {
+    "id": 15,
+    "name": "Sensitive Repair Balm",
+    "price": 11.5,
+    "image": "https://images.pexels.com/photos/3577294/pexels-photo-3577294.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Repairs and soothes barrier.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 16,
+    "name": "Balancing Cleanser",
+    "price": 13.25,
+    "image": "https://images.pexels.com/photos/31110087/pexels-photo-31110087/free-photo-of-vibrant-femfresh-intimate-wash-bottles-by-poolside.png?auto=compress&cs=tinysrgb&w=600",
+    "description": "Removes excess oil and purifies.",
+    "skinType": "combination"
+  },
+  {
+    "id": 17,
+    "name": "Revitalizing Eye Cream",
+    "price": 14.0,
+    "image": "https://images.pexels.com/photos/7317071/pexels-photo-7317071.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Targets dark circles and puffiness.",
+    "skinType": "all"
+  },
+  {
+    "id": 18,
+    "name": "Oil-Free Moisturizer",
+    "price": 12.75,
+    "image": "https://images.pexels.com/photos/8490165/pexels-photo-8490165.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Hydration without shine.",
+    "skinType": "oily"
+  },
+  {
+    "id": 19,
+    "name": "Barrier Repair Cream",
+    "price": 20.0,
+    "image": "https://images.pexels.com/photos/6955180/pexels-photo-6955180.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Strengthens sensitive skin barrier.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 20,
+    "name": "Calming Mist",
+    "price": 9.5,
+    "image": "https://images.pexels.com/photos/8904066/pexels-photo-8904066.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "description": "Instant relief and hydration.",
+    "skinType": "all"
+  },
+  {
+    "id": 21,
+    "name": "Ultra Glow Drops",
+    "price": 24.99,
+    "image": "https://images.pexels.com/photos/10825676/pexels-photo-10825676.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Add glow to your skincare.",
+    "skinType": "dry"
+  },
+  {
+    "id": 22,
+    "name": "Gentle Foaming Cleanser",
+    "price": 11.5,
+    "image": "https://images.pexels.com/photos/8989967/pexels-photo-8989967.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Soft lather for clean skin.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 23,
+    "name": "Cica Soothing Cream",
+    "price": 13.99,
+    "image": "https://images.pexels.com/photos/16008943/pexels-photo-16008943/free-photo-of-foamy-soap-free-cream-in-pump-bottles.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Repairs and calms redness.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 24,
+    "name": "Rosewater Toner",
+    "price": 10.5,
+    "image": "https://images.pexels.com/photos/26733175/pexels-photo-26733175/free-photo-of-woman-hand-holding-vial-of-vitamin.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Tones and refreshes delicately.",
+    "skinType": "dry"
+  },
+  {
+    "id": 25,
+    "name": "Anti-Blemish Serum",
+    "price": 17.0,
+    "image": "https://images.pexels.com/photos/30279276/pexels-photo-30279276/free-photo-of-close-up-of-female-hand-holding-a-dropper-bottle.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Targets breakouts gently.",
+    "skinType": "oily"
+  },
+  {
+    "id": 26,
+    "name": "Pore Minimizer Cream",
+    "price": 14.25,
+    "image": "https://images.pexels.com/photos/24602068/pexels-photo-24602068/free-photo-of-skin-care-product-photography-with-water.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Smooths and refines skin.",
+    "skinType": "combination"
+  },
+  {
+    "id": 27,
+    "name": "Calm & Clear Serum",
+    "price": 18.0,
+    "image": "https://images.pexels.com/photos/8709562/pexels-photo-8709562.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Bye-bye redness & irritation.",
+    "skinType": "sensitive"
+  },
+  {
+    "id": 28,
+    "name": "Dewy Hydration Cream",
+    "price": 15.75,
+    "image": "https://images.pexels.com/photos/13794470/pexels-photo-13794470.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Supple skin guaranteed.",
+    "skinType": "dry"
+  },
+  {
+    "id": 29,
+    "name": "Tea Tree Spot Gel",
+    "price": 11.0,
+    "image": "https://images.pexels.com/photos/17605157/pexels-photo-17605157/free-photo-of-jar-vials-and-flasks-on-green-background.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Targets blemishes overnight.",
+    "skinType": "oily"
+  },
+  {
+    "id": 30,
+    "name": "Balancing Face Oil",
+    "price": 16.99,
+    "image": "https://images.pexels.com/photos/24602066/pexels-photo-24602066/free-photo-of-cosmetic-in-bottle.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "description": "Nourishes without clogging.",
+    "skinType": "combination"
+  }
+ 
+]
