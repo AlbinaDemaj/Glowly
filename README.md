@@ -1,4 +1,4 @@
-# ✨ Glowly – Skincare React Web App
+# ✨ Glowing. – Skincare React Web App
 
 **Glowly** is a fully responsive, elegant skincare e-commerce website built using **React**, **Tailwind CSS**, and **JavaScript**.  
 It features animated UI, interactive product sections, a personalized skincare quiz, and user-friendly features powered by LocalStorage and API integrations.
